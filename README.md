@@ -6,7 +6,8 @@ This demo is intended to help get you started with DSE Graph. It includes schema
 ###About the Data
 The data comes to us from the [pokeapi](https://github.com/PokeAPI/pokeapi). I took the liberty of cleaning the data files and choosing the ones that had relationships applicable to a graph database. I've also changed the file and header names to help new comers better understand what's happening inside DSE Graph.
 
-*note*  Some of the evolution paths seem to be incorrect in the data. For example, the data states "Pikachu" evolves to "Nine Tails" which is not correct. 
+###Issues
+* Evolution paths seem to be incorrect in the data. I'll be fixing that soon  
 
 
 ###Prerequisites

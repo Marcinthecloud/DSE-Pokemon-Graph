@@ -7,7 +7,7 @@ This demo is intended to help get you started with DSE Graph. It includes schema
 The data comes to us from the [pokeapi](https://github.com/PokeAPI/pokeapi). I took the liberty of cleaning the data files and choosing the ones that had relationships applicable to a graph database. I've also changed the file and header names to help new comers better understand what's happening inside DSE Graph.
 
 ###Issues
-* Evolution paths seem to be incorrect in the data. I'll be fixing that soon  
+* Some data needs to be cleaned further for null property values  
 
 
 ###Prerequisites

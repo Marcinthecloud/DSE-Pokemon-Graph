@@ -50,4 +50,4 @@ Some of the properties within the CSV files contain empty fields which is OK for
 ###Play time! Remember that Studio truncates results to 1000 by default.
 
 ![Alt text](http://i.imgur.com/ptyBTBb.png)
-![Alt text](http://i.imgur.com/6SqACaf.png)
+![Alt text](http://i.imgur.com/fOFgwKe.png)

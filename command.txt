@@ -1,0 +1,1 @@
+sudo /path/to/graphloader /path/to/poke_mapper.groovy -graph pokemon_test -address localhost -abort_on_prep_errors false

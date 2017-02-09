@@ -48,7 +48,7 @@ load(egggroupsFile).asVertices {
     key "egg_groups_id"
 }
 
-load(itemcategoryEdgeFile).asVertices {
+load(itemcategoriesFile).asVertices {
     label "item_category"
     key "category_id"
 }
@@ -102,7 +102,7 @@ load(categorypocketEdgeFile).asEdges {
     }
 }
 
-load(itemcategoriesFile).asEdges {
+load(itemcategoryEdgeFile).asEdges {
     label "has_category"
     outV "item_id", {
         label "items"
